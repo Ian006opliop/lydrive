@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+Authlib
+qrcode
+requests
+gunicorn
+werkzeug
